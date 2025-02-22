@@ -41,6 +41,7 @@ farm-smart/
 |   |   |   |-- Home.js
 |   |   |   |-- Dashboard.js
 |   |   |   |-- Login.js
+|   |   |   |-- header.js
 |   |   |-- App.js
 |   |   |-- index.js
 |   |-- package.json
