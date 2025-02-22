@@ -5,6 +5,7 @@ Your all-in-one farming companion, designed to help you grow smarter and more ef
 ![farm smart](frontend/public/assets/frontend.png)
 
 ## System Architecture
+<img src="frontend/public/assets/architecture.png" alt="architecture" width="500">
 
 
 ## Project Structure
