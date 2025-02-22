@@ -1,0 +1,23 @@
+{
+    "name": "farm-smart",
+    "version": "1.0.0",
+    "description": "Farm Smart - AI-powered farming assistant",
+    "private": true,
+    "workspaces": [
+      "backend",
+      "frontend"
+    ],
+    "scripts": {
+      "start": "concurrently \"npm run start --prefix backend\" \"npm run start --prefix frontend\"",
+      "install": "npm install --prefix backend && npm install --prefix frontend"
+    },
+    "dependencies": {
+      "concurrently": "^8.0.1"
+    },
+    "engines": {
+      "node": ">=16.0.0"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
