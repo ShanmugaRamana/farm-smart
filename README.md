@@ -50,6 +50,15 @@ farm-smart/
 |-- README.md
 ```
 
+## How It Works
+- **Smart AI Assistance (will be updated Soon)**: Get real-time, AI-driven recommendations for your crops and farming needs.
+- **Multilingual Support**: Understand and interact with the platform in your preferred language.
+- **Offline Access**: View and manage data even without an internet connection.
+- **Subsidy & Crop Prices**: Stay updated with real-time government subsidies and market crop prices.
+
+
+## License
+This project is licensed under the MIT License.
 
 
 
